@@ -1,0 +1,8 @@
+node_modules 
+dist 
+.env
+.vscode
+.DS_Store
+/src/generated/prisma
+
+/src/generated/prisma
